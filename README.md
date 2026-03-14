@@ -36,3 +36,4 @@ Atuo na linha de frente da defesa cibernética de infraestruturas críticas gove
 </div>
 
 📫 **Vamos nos conectar:** [LinkedIn](https://linkedin.com/in/victor-ramalho-lisboa) | victor.secops@proton.me
+ 
