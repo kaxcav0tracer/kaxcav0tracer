@@ -2,30 +2,32 @@
 
 **Cloud Security Engineer | Especialista em SOC N2 | DevSecOps**
 
-Sou Analista de Cibersegurança (Blue Team), atuando na linha de frente da proteção de infraestruturas críticas e estratégicas do Governo Federal (Ministérios). Como graduando em Engenharia de Software, não apenas opero ferramentas, mas construo soluções: utilizo automação e *Detection as Code* para reduzir drasticamente o tempo de resposta a incidentes (MTTR).
+Sou Analista de Cibersegurança (Blue Team), atuando na proteção de infraestruturas críticas do Governo Federal. Como graduando em Engenharia de Software, integro operação e engenharia para construir soluções de *Detection as Code* e automação de resposta (SOAR), focando na redução drástica do MTTR em ambientes híbridos.
 
-### 🎯 Minhas Especialidades Técnicas:
-* **Cloud Security & SIEM:** Caça a ameaças e investigação avançada garantindo visibilidade total do ambiente.
-* **Segurança de Rede e Perímetro:** Gestão de políticas e centralização de logs para auditoria e defesa de borda (WAF).
-* **Proteção de Endpoint e Dados:** Contenção de ameaças em larga escala e governança de dados sensíveis (LGPD).
+### 🎯 Especialidades Técnicas
+* **Cloud Security & SIEM:** Investigação avançada e Hunting (KQL) em ambientes Azure/Multicloud.
+* **Identity & Access Management:** Especialista em Entra ID, PIM e arquiteturas Zero Trust.
+* **Segurança de Rede & Borda:** Administração de ecossistema Fortinet e proteção de aplicações com F5 AWAF.
+* **Proteção de Endpoint & Dados:** Resposta a incidentes em larga escala (EDR/XDR) e governança LGPD (Varonis).
 
 ---
 
 ### 🚀 Projetos em Destaque
-* ⚡ [**SecOps Automation Suite & Cloud SIEM Lab**](https://github.com/kaxcav0tracer/secops-automation-suite): Laboratório SOC híbrido com Microsoft Sentinel, hunting com KQL e suíte de resposta a incidentes (IR) com interface gráfica em PowerShell/WPF e Python.
-* 👁️ [**Observabilidade SecOps (K8s + Wazuh + Grafana)**](https://github.com/kaxcav0tracer/k8s-wazuh-lab): Ecossistema de monitoramento híbrido quebrando silos entre Infraestrutura e Blue Team em clusters Kubernetes.
+* ⚡ [**SecOps Automation Suite & Cloud SIEM Lab**](https://github.com/kaxcav0tracer/secops-automation-suite-v2): Laboratório SOC híbrido com Microsoft Sentinel, hunting com KQL e suíte de IR com interface gráfica em PowerShell/WPF.
+* 👁️ [**Observabilidade SecOps (K8s + Wazuh + Grafana)**](https://github.com/kaxcav0tracer/k8s-wazuh-lab): Dashboards unificados correlacionando performance e segurança em clusters Kubernetes.
 
 ---
 
-### 🏆 Certificações Microsoft (Exodia)
-![AZ-500](https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft)
-![SC-200](https://img.shields.io/badge/SC--200-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft)
-![SC-300](https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft)
-![SC-401](https://img.shields.io/badge/SC--401-Information_Protection-0078D4?style=for-the-badge&logo=microsoft)
+### 🏆 Certificações Microsoft (Security Trio)
+<p align="left">
+  <img src="https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft" alt="AZ-500">
+  <img src="https://img.shields.io/badge/SC--200-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft" alt="SC-200">
+  <img src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft" alt="SC-300">
+</p>
 
 ---
 
-### 💻 Minha Stack de Defesa e Automação
+### 💻 Stack de Defesa e Automação
 
 **SIEM & Observabilidade:**
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -42,23 +44,18 @@ Sou Analista de Cibersegurança (Blue Team), atuando na linha de frente da prote
 ![Trellix](https://img.shields.io/badge/Trellix_EDR-000000?style=for-the-badge)
 ![Varonis](https://img.shields.io/badge/Varonis-000000?style=for-the-badge)
 
-**Cloud, Infraestrutura & DevSecOps:**
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Linguagens de Automação:**
-![KQL](https://img.shields.io/badge/KQL-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Linguagens & Cloud:**
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+### 📊 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=radical&hide_border=true" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=radical&hide_border=true" width="400" />
 </div>
 
-📫 **Vamos nos conectar:** [LinkedIn](https://linkedin.com/in/victor-ramalho-lisboa) | victor.secops@proton.me
+📫 **Conecte-se comigo:** [LinkedIn](https://linkedin.com/in/victor-ramalho-lisboa) | [E-mail](mailto:victor.secops@proton.me)
