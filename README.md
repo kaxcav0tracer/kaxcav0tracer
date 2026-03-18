@@ -58,12 +58,12 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td width="50%" align="center">
-        <h3>👁️ SecOps Observability</h3>
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ SecOps Observability</a></h3>
         <p><i>K8s • Wazuh • Grafana</i></p>
         <p>Single Pane of Glass unificando telemetria de infraestrutura (Zabbix) e segurança (Wazuh). Eliminação de silos no Blue Team.</p>
       </td>
       <td width="50%" align="center">
-        <h3>⚡ Sentinel Automation Suite</h3>
+        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ Sentinel Automation Suite</a></h3>
         <p><i>Python • KQL • WPF</i></p>
         <p>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs de inteligência (Threat Intel).</p>
       </td>
