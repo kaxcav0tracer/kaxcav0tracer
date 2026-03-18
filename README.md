@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🛡️+Operações+de+Segurança+(SOC)+e+Resposta+a+Incidentes;☁️+Cloud+Security+%26+Identity+(IAM);⚡+Automação+e+Detection+as+Code;🔍+Threat+Hunting+%26+Investigação+Avançada" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Operacoes+de+Seguranca+(SOC);Cloud+Security+e+Identity+(IAM);Automacao+e+Detection+as+Code;Threat+Hunting+Avancado" alt="Typing SVG" />
 
 *Defendendo infraestruturas críticas, mitigando ameaças avançadas e transformando telemetria bruta em inteligência acionável.*
 
@@ -27,21 +27,29 @@ Atuo na linha de frente da defesa cibernética de **Infraestruturas Críticas do
 
 ## 🏆 The Microsoft "Exodia" (Security Stack)
 <div align="center">
-  <img src="https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft" alt="AZ-500">
-  <img src="https://img.shields.io/badge/SC--200-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft" alt="SC-200">
-  <img src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft" alt="SC-300">
-  <img src="https://img.shields.io/badge/SC--401-Information_Protection-0078D4?style=for-the-badge&logo=microsoft" alt="SC-401">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft" alt="AZ-500"></td>
+      <td><img src="https://img.shields.io/badge/SC--200-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft" alt="SC-200"></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft" alt="SC-300"></td>
+      <td><img src="https://img.shields.io/badge/SC--401-Information_Protection-0078D4?style=for-the-badge&logo=microsoft" alt="SC-401"></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## ⚙️ Arsenal de Defesa e Automação
 
-**Automação, Cloud & Infraestrutura:** <a href="https://skillicons.dev">
+<div align="center">
+<b>Automação, Cloud & Infraestrutura:</b><br>
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,powershell,bash,azure,aws,kubernetes,linux,ubuntu,grafana" />
 </a>
-
-**Ecossistema de Cibersegurança:** <div align="left">
+<br><br>
+<b>Ecossistema de Cibersegurança:</b><br>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white">
   <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=flat-square&logo=fortinet&logoColor=white">
