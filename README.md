@@ -58,7 +58,7 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td width="50%" align="center">
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-soar">🏹 Artemis SOAR</a></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-project">🏹 Artemis SOAR</a></h3>
         <br>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
