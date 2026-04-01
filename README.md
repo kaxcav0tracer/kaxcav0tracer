@@ -18,16 +18,25 @@
 
 <br><br>
 
-<code>❯ whoami && id -un</code>
-<br>
-<p><i>Especialista em arquitetura de segurança, resposta a incidentes e orquestração de defesas em ambientes híbridos e Cloud.</i></p>
+<table border="0" style="background-color: transparent;">
+  <tr>
+    <td align="left">
+      <code><b>root@secops-mainframe:~#</b> neofetch --profile victor</code><br>
+      <code><b>OS.....:</b> DevSecOps & Cloud Security</code><br>
+      <code><b>Kernel.:</b> Threat Intelligence & Automation</code><br>
+      <code><b>Uptime.:</b> Defendendo ambientes híbridos e críticos 24/7</code><br>
+      <code><b>Mission:</b> Arquitetura de segurança, resposta a incidentes e orquestração.</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-<h2 align="center"> 🏅 The Microsoft "Exodia" </h2>
+<h2 align="center"> ━━━ 🏅 The Microsoft "Exodia" ━━━ </h2>
 <div align="center">
+  <br>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_&_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -36,7 +45,7 @@
 
 <br><br>
 
-<h2 align="center"> 🌌 Arsenal & Telemetria </h2>
+<h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
@@ -61,12 +70,14 @@
 
 <br><br>
 
-<h2 align="center"> ⚡ Engineered Solutions (Projetos) </h2>
+<h2 align="center"> ━━━ ⚡ Engineered Solutions (Projetos) ━━━ </h2>
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-project"><code>[🏹] Artemis SOAR</code></a></h3>
+        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-project"><kbd> 🏹 Artemis SOAR </kbd></a></h3>
+        <br>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
@@ -76,7 +87,9 @@
         </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2"><code>[⚡] Sentinel Automation</code></a></h3>
+        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2"><kbd> ⚡ Sentinel Automation </kbd></a></h3>
+        <br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -89,7 +102,8 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab"><code>[👁️] SecOps Observability</code></a></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab"><kbd> 👁️ SecOps Observability </kbd></a></h3>
+        <br>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -100,7 +114,8 @@
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><code>[🛡️] Secure Gateway</code></h3>
+        <h3><kbd> 🛡️ Secure Gateway </kbd></h3>
+        <br>
         <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
         <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
         <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
@@ -115,8 +130,9 @@
 
 <br><br>
 
-<h2 align="center"> 🔮 GitHub Insights & Activity </h2>
+<h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
+  <br>
   <a href="https://github.com/kaxcav0tracer">
     <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="48%" />
   </a>
