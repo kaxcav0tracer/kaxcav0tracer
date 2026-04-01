@@ -27,7 +27,7 @@
 <code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
-<code><b>Location..:</b> <img src="https://img.shields.io/badge/Brasília-DF-yellow?style=flat-square" height="12"></code></pre>
+<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
     </td>
   </tr>
 </table>
@@ -48,18 +48,29 @@
 
 <h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
-  <p><b>🛠️ Engenharia & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
-  <br><br>
-  <p><b>🛡️ Defesa & SecOps</b></p>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
+  <table border="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3> 🛠️ Engenharia & Cloud </h3>
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure&perline=4" />
+        </a>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3> 🛡️ Defesa & SecOps </h3>
+        <br>
+        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
+        <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
@@ -122,8 +133,9 @@
 
 <h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true" height="175" />
 </div>
@@ -132,10 +144,14 @@
 
 <h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
