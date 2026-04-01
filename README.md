@@ -26,7 +26,7 @@
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
 <code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
-<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
+<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code></pre>
     </td>
   </tr>
 </table>
@@ -47,29 +47,18 @@
 
 <h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <h3> 🛠️ Engenharia & Cloud </h3>
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure&perline=4" />
-        </a>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <h3> 🛡️ Defesa & SecOps </h3>
-        <br>
-        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=flat-square&logo=zabbix&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
-        <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <p><b>🛠️ Engenharia & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
+  <br><br>
+  <p><b>🛡️ Defesa & SecOps</b></p>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
 </div>
 
 <br><br>
@@ -133,12 +122,8 @@
 <h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
   <br>
-  <a href="https://github.com/kaxcav0tracer">
-    <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="48%" />
-  </a>
-  <a href="https://github.com/kaxcav0tracer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&hide_border=true&background=00000000&ring=B084CC&fire=00F5FF&currStreakNum=B084CC&currStreakLabel=A8B2C3&sideNums=00F5FF&sideLabels=A8B2C3&dates=A8B2C3" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=vision-glow&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" height="165px" />
 </div>
 
 <br><br>
