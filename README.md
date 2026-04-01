@@ -80,7 +80,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3>🏹 <code>Artemis SOAR Project</code></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-project">🏹 <code>Artemis SOAR Project</code></a></h3>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
@@ -91,7 +91,7 @@
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3>⚡ <code>Sentinel Automation</code></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ <code>Sentinel Automation</code></a></h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -104,7 +104,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3>👁️ <code>SecOps Observability</code></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ <code>SecOps Observability</code></a></h3>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
