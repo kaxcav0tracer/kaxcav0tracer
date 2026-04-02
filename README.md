@@ -51,7 +51,7 @@
 <h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
   <p><b>🛠️ Engenharia, Cloud & Dev</b></p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,gitlab,vscode,mysql,java,php,kali&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,java,php,fastapi,linux,ubuntu,windows,aws,azure,docker,kubernetes,elasticsearch,mysql,nginx,cloudflare,git,gitlab,githubactions,terraform,ansible,postman,vim,vscode,kali&perline=13" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -131,7 +131,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
     </tr>
   </table>
