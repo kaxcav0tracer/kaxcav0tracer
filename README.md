@@ -37,15 +37,9 @@
 
 <br>
 
-<h2 align="center"> ━━━ 🏅 Certifications & Goals ━━━ </h2>
+<h2 align="center"> ━━━ 🏅 Certifications ━━━ </h2>
 <div align="center">
-  <p><b>🏆 Conquistadas</b></p>
-  <img src="https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-F78E1E?style=for-the-badge&logo=aviatrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBSEC-Pentester_Associado-DC143C?style=for-the-badge&logo=security&logoColor=white" />
-  
-  <br><br>
-  
-  <p><b>📚 Em Progresso (The Microsoft "Exodia")</b></p>
+  <p><b>🏆 Conquistadas (The Microsoft "Exodia")</b></p>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_&_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -137,7 +131,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
     </tr>
   </table>
@@ -159,5 +153,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
 </div>
