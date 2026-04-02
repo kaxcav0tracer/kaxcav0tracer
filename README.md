@@ -56,13 +56,13 @@
   <p><b>🛡️ Defesa & SecOps</b></p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
 </div>
 
 <br><br>
