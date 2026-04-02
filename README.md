@@ -26,7 +26,8 @@
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
 <code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
-<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code></pre>
+<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
+<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
     </td>
   </tr>
 </table>
@@ -47,29 +48,18 @@
 
 <h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <h3> 🛠️ Engenharia & Cloud </h3>
-        <br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,mysql&perline=4" />
-        </a>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <h3> 🛡️ Defesa & SecOps </h3>
-        <br>
-        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=flat-square&logo=zabbix&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
-        <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+  <p><b>🛠️ Engenharia & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
+  <br><br>
+  <p><b>🛡️ Defesa & SecOps</b></p>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
 </div>
 
 <br><br>
@@ -80,19 +70,25 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-soar">🏹 <code>Artemis SOAR</code></a></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-project">🏹 <code>Artemis SOAR Project</code></a></h3>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
+        <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
         <br><br>
-        <blockquote><i>Microserviço de alta performance para orquestração e enriquecimento automático de ameaças.</i></blockquote>
+        <blockquote>
+          <i>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças.</i>
+        </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
         <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ <code>Sentinel Automation</code></a></h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
         <br><br>
-        <blockquote><i>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com APIs de inteligência.</i></blockquote>
+        <blockquote>
+          <i>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs.</i>
+        </blockquote>
       </td>
     </tr>
     <tr>
@@ -100,17 +96,23 @@
         <br>
         <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ <code>SecOps Observability</code></a></h3>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
         <br><br>
-        <blockquote><i>Single Pane of Glass unificando telemetria de infraestrutura e segurança em ambiente K8s.</i></blockquote>
+        <blockquote>
+          <i>Single Pane of Glass unificando telemetria de infraestrutura e segurança em ambiente Kubernetes.</i>
+        </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
         <h3>🛡️ <code>Secure Gateway</code></h3>
-        <img src="https://img.shields.io/badge/AD-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
         <br><br>
-        <blockquote><i>Engenharia de proteção de perímetro (Zero Trust) e mitigação de movimentação lateral.</i></blockquote>
+        <blockquote>
+          <i>Engenharia de proteção de perímetro (Zero Trust), eliminando exposição de portas críticas RDP/SSH.</i>
+        </blockquote>
       </td>
     </tr>
   </table>
@@ -122,30 +124,26 @@
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&v=4" height="175" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&v=4" height="175" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&v=4" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="170" />
 </div>
 
 <br><br>
 
 <h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" alt="Snake" width="80%" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
