@@ -91,6 +91,30 @@
         </blockquote>
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ <code>SecOps Observability</code></a></h3>
+        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <br><br>
+        <blockquote>
+          <i>Single Pane of Glass unificando telemetria de infraestrutura e segurança em ambiente Kubernetes.</i>
+        </blockquote>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <h3>🛡️ <code>Secure Gateway</code></h3>
+        <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
+        <br><br>
+        <blockquote>
+          <i>Engenharia de proteção de perímetro (Zero Trust), eliminando exposição de portas críticas RDP/SSH.</i>
+        </blockquote>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -101,25 +125,25 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&v=2" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="170" />
 </div>
 
 <br><br>
 
 <h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" alt="Snake" width="80%" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
