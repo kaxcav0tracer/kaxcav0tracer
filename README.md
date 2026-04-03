@@ -79,7 +79,7 @@
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
         <br><br>
         <blockquote>
-          <i>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças.</i>
+          <i>Orquestrador SOAR de alta performance com cache em PostgreSQL e automação de bloqueio em Firewalls FortiGate.</i>
         </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
