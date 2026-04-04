@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VICTOR%20RAMALHO&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Cloud%20Security%20Engineer%20%7C%20Detection%20as%20Code&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VICTOR%20RAMALHO&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=CTF%20%26%20DevSecOps%20%7C%20Cybersecurity%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Criticas;Construindo+Solucoes+de+Automacao;Engenharia+de+Defesa+e+SecOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=CTF+&+DevSecOps;Engenharia+de+Software;Cybersecurity+Analyst;ZeroDay+Research" alt="Typing SVG" />
 
 <br><br>
 
@@ -23,12 +23,13 @@
     <td>
       <pre align="left">
 <code><b>❯ whoami</b></code>
-<code><b>User......:</b> victor.ramalho (Kaxcav)</code>
-<code><b>Role......:</b> SecOps Specialist</code>
+<code><b>User......:</b> victor.ramalho (kaxcav0trace)</code>
+<code><b>Role......:</b> Cybersecurity Analyst | DevSecOps</code>
+<code><b>Org.......:</b> ZeroDay Research Lab</code>
 <code><b>Academic..:</b> Software Engineering</code>
-<code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
+<code><b>Focus.....:</b> CTF | Detection as Code | Automation</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
-<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
+<code><b>Location..:</b> Undisclosed Location | Layer 7</code></pre>
     </td>
   </tr>
 </table>
@@ -73,7 +74,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-project">🏹 <code>Artemis SOAR Project</code></a></h3>
+        <h3><a href="https://github.com/kaxcav0trace/artemis-project">🏹 <code>Artemis SOAR Project</code></a></h3>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
@@ -84,7 +85,7 @@
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ <code>Sentinel Automation</code></a></h3>
+        <h3><a href="https://github.com/kaxcav0trace/secops-automation-suite-v2">⚡ <code>Sentinel Automation</code></a></h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -97,7 +98,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ <code>SecOps Observability</code></a></h3>
+        <h3><a href="https://github.com/kaxcav0trace/k8s-wazuh-lab">👁️ <code>SecOps Observability</code></a></h3>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -128,28 +129,28 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0trace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0trace&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="170" />
 </div>
 
 <br><br>
 
 <h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="80%" />
+  <img src="https://raw.githubusercontent.com/kaxcav0trace/kaxcav0trace/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="80%" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=kaxcav0trace&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
 </div>
 
 <div align="center">
