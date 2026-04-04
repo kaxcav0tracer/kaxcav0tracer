@@ -54,13 +54,13 @@
 <h2 align="center"> 🌌 Arsenal & Telemetria </h2>
 <div align="center">
   <p><b>🛠️ Engenharia, Cloud & Dev</b></p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,java,php,fastapi,linux,ubuntu,windows,aws,azure,docker,kubernetes,jenkins,terraform,ansible,elasticsearch,mysql,nginx,cloudflare,git,gitlab,githubactions,postman,vim,vscode,kali&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,java,php,fastapi,linux,ubuntu,windows,aws,azure,docker,kubernetes,jenkins,terraform,ansible,elasticsearch,mysql,redis,nginx,cloudflare,git,gitlab,githubactions,postman,vim,vscode,kali&perline=14" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
